@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+    <title><![CDATA[Négationnisme médical : Blog]]></title>
+    <link>http://negationnisme.e-monsite.com/blog</link>
+    <atom:link href="http://negationnisme.e-monsite.com/blog/do/rss/" rel="self" type="application/rss+xml" />
+	<description><![CDATA[]]></description>
+
+                 <item>
+         <guid>http://negationnisme.e-monsite.com/blog/sorties/ouverture-du-site-de-prenom.html</guid>
+         <title><![CDATA[Ouverture du site de au]]></title>
+         <link>http://negationnisme.e-monsite.com/blog/sorties/ouverture-du-site-de-prenom.html</link>
+         <description><![CDATA[<p>Ceci est un exemple de billet. Le blog peut vous permettre de parler de votre actualit&eacute; ou recueillir vos derni&egrave;res cr&eacute;ations, vos pens&eacute;es, vos recettes de cuisine, vos derniers voyages...
+
+Supprimez ou modifier ce billet depuis votre manager (espace d&#39;administration du site) afin de commencer &agrave; bloguer sur votre site.
+</p>]]></description>
+         
+         <pubDate>Sun, 05 Sep 2021 08:25:22 +0200</pubDate>
+         </item>        
+        </channel>
+</rss>	
